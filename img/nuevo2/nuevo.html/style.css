@@ -1,0 +1,50 @@
+.contenedor {
+    display: flex;
+    flex-direction: column;
+}
+
+.bloque {
+    width: 100%;
+    height: 100px;
+    /* Ajusta la altura según tus necesidades */
+    background-color: lightgray;
+    /* Color de fondo */
+    margin-bottom: 10px;
+    /* Espacio entre bloques */
+}
+
+.bloque-arriba {
+    margin-bottom: 10px;
+    /* Espacio entre bloques */
+}
+
+.bloques-3 {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    /* Espacio entre bloques */
+}
+
+.cuadro-derecha {
+    width: 100px;
+    /* Ancho del cuadro a la derecha */
+    height: 200px;
+    /* Alto del cuadro a la derecha */
+    background-color: lightblue;
+    /* Color de fondo */
+}
+
+.columnas {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    /* 5 columnas */
+    gap: 10px;
+    /* Espacio entre columnas */
+}
+
+.columna {
+    height: 100px;
+    /* Ajusta la altura según tus necesidades */
+    background-color: lightgray;
+    /* Color de fondo */
+}

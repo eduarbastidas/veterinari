@@ -1,0 +1,53 @@
+.tutlo-mailing {
+    text-align: center;
+    color: rgb(85, 11, 155);
+    font-size: 100px;
+}
+
+.color-letras {
+    color: rgba(145, 125, 158, 0.719);
+}
+
+.e {
+    margin-top: 20vh;
+    margin: 400vh;
+}
+
+.read {
+    background-color: rgb(96, 61, 133);
+    border-radius: 75px;
+    border-bottom: 80px;
+    color: rgb(255, 255, 255);
+    margin: auto;
+}
+
+.p {
+    background-color: rgb(84, 59, 122);
+    border: 100vh 100px;
+    width: 100%;
+}
+
+.po {
+    text-align: center;
+}
+
+.a {
+    color: rgba(145, 125, 158, 0.719);
+}
+
+.m {
+    color: rgba(145, 125, 158, 0.719);
+    text-align: center;
+    font-size: 25px;
+    position: relative;
+    left: 600px;
+}
+
+.txt td {
+    position: relative;
+    left: 600px;
+}
+
+table {
+    left: 1000px;
+}
